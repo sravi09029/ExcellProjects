@@ -1,0 +1,3 @@
+09/04/2021 10:49:57 DEBUG config.Testlog - This is debug log
+09/04/2021 10:49:57 INFO  config.Testlog - This is info log
+09/04/2021 10:49:57 ERROR config.Testlog - Erorr is a Project
