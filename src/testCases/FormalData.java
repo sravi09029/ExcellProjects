@@ -57,6 +57,7 @@ public class FormalData {
 			}
 			
 			System.out.println();
+			
 		}
 
 	}
